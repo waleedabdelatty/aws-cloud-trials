@@ -1,4 +1,4 @@
-# VPC, Internet Gateway and Routing Tables
+# Lab VPC, Internet Gateway and Routing Tables
 
 ## 1. Create a VPC
 

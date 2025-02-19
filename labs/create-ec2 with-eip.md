@@ -1,4 +1,4 @@
-# Create an EC2 with Elastic IP
+# Lab Create an EC2 with Elastic IP
 
 ## 1. Create a VPC
 
